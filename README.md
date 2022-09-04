@@ -136,9 +136,5 @@ Data Analysis, SQL, MySQL, TERADATA
 * Retrieve records and compute calculations that are dependent on dynamic data features
 * Translate data analysis questions into SQL queries that accommodate the types of anomalies found in real data sets.
 
-
-## Certificate
-<p align="center">
-  <img src="https://github.com/nicoambrosis/Managing-Bid-Data-with-SQL/blob/main/Certificate.jpg">
 </p>
 
